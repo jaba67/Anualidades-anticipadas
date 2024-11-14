@@ -4,7 +4,7 @@
 ## Funciones de anualidades anticipadas 
 
 ```{r}
-source("https://raw.githubusercontent.com/jaba67/Anualidadesanticipadas/refs/heads/main/Anualidades%20anticipadas%202.R")
+source("https://raw.githubusercontent.com/jaba67/Anualidades-anticipadas/refs/heads/main/Anualidades%20anticipadas%202.R")
 ```
 
 se daran ejemplos a contunuacion del uso de las formulas en problemas practicos para su mejor entendimiento.
