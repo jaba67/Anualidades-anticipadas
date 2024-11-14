@@ -4,7 +4,7 @@
 En el siguiente link puede ver todas las funciones que se utilizaran a continuacion para el calculo de las anualidades vencidas:
 
 ```{r}
-source("https://raw.githubusercontent.com/jaba67/Anualidades-anticipadas/refs/heads/main/anualidades%20anticipadas.R")
+source("https://raw.githubusercontent.com/jaba67/Anualidades-anticipadas/refs/heads/main/Anualidades%20anticipadas%202.R")
 ```
 
 A conticuacion se dara un ejemplo de uso de cada formula que esta en el link de arriba para mostrar de manera mas grafica el uso de las mismas:
